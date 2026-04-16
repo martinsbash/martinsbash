@@ -10,7 +10,6 @@ I build businesses, web applications, and AI-powered tools. Founder of [Afro Cre
 
 - **Client Projects** — Web apps and digital solutions for businesses across industries (healthcare, beauty, energy, accounting)
 - **B2B Lead Gen System** — Automated pipeline using Apify + Claude AI to find, enrich, and export leads
-- **WavesofAfro** — A clothing brand rooted in African culture, shipping globally
 - **Trading Tools** — AI-powered pattern recognition for chart analysis
 
 ### Tech I Work With
