@@ -17,7 +17,6 @@ I build businesses, web applications, and AI-powered tools. Founder of [Afro Cre
 | Project | What It Is |
 |---------|------------|
 | [Afro Creative Group](https://github.com/martinsbash/afrocreativegroup) | Web & creative agency — branding, websites, and digital strategy for businesses |
-| [WavesofAfro](https://wavesofafro.com) | Clothing brand celebrating African culture and identity |
 | [Claude Skills](https://github.com/martinsbash/claude-skills) | Custom AI skills and automation workflows built for Claude |
 
 ### Tech I Work With
