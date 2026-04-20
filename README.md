@@ -2,7 +2,7 @@
 
 AI researcher and benchmark engineer with roots in finance. My work is research: evaluating model outputs on projects with Outlier, probing reasoning quality and failure modes, and building the tooling that surfaces patterns across reviews. The engineering sits downstream of the research.
 
-Based in Toronto. Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency, and run [WavesofAfro](https://www.instagram.com/wavesofafro), a clothing brand relaunching later this year.
+Based in Toronto. Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency.
 
 ---
 
@@ -30,7 +30,7 @@ I don't claim to have this figured out. I do claim to be iterating in public, wi
 
 ## Background
 
-I came to engineering from finance, and both sides still inform the work. The finance background is where I learned to think about risk, precision, and compounding, which translates more directly to AI reliability than I expected going in. On projects with Outlier I work as an Oracle-tier benchmark engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where the patterns in `claude-skills` came from: reviews surface the same categories of failure repeatedly, and the skills exist because I needed a way to catch them systematically. Alongside the research, I co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency, and run [WavesofAfro](https://www.instagram.com/wavesofafro), a clothing brand relaunching later this year. The tooling I publish started as something one of these workflows needed.
+I came to engineering from finance, and both sides still inform the work. The finance background is where I learned to think about risk, precision, and compounding, which translates more directly to AI reliability than I expected going in. On projects with Outlier I work as an Oracle-tier benchmark engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where the patterns in `claude-skills` came from: reviews surface the same categories of failure repeatedly, and the skills exist because I needed a way to catch them systematically
 
 ---
 
