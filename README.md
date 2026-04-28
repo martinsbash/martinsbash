@@ -1,6 +1,6 @@
 # Martins Bash
 
-AI researcher and benchmark engineer with a background in finance. I evaluate how models reason under real-world conditions, diagnose where failures cluster into systematic patterns rather than isolated errors, and audit the boundaries of what prompt architecture can reliably enforce. The tooling I build extends that research: error classification frameworks that intercept failure classes before output is finalized, self-correcting agents that persist correction state across context resets, and instrumentation that makes model behavior consistent under adversarial conditions.
+AI researcher and benchmark engineer with a background in finance & data analysis. I evaluate how models reason under real-world conditions, diagnose where failures cluster into systematic patterns rather than isolated errors, and audit the boundaries of what prompt architecture can reliably enforce. The tooling I build extends that research: error classification frameworks that intercept failure classes before output is finalized, self-correcting agents that persist correction state across context resets, and instrumentation that makes model behavior consistent under adversarial conditions.
 
 Based in Toronto. Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency.
 
