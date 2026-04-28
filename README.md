@@ -30,7 +30,7 @@ I don't claim to have this figured out. I do claim to be iterating in public, wi
 
 ## Background
 
-I came to engineering from finance, and both sides still inform the work. The finance background is where I learned to think about risk, precision, and compounding, which translates more directly to AI reliability than I expected going in. Worked on projects with Outlier as an Oracle-tier benchmark engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where the patterns in `claude-skills` came from: reviews surface the same categories of failure repeatedly, and the skills exist because I needed a way to catch them systematically
+I came into tech from finance, and both sides still inform the work. The finance background is where I learned to think about risk, precision, and compounding, which translates more directly to AI reliability than I expected going in. Worked on projects with Outlier as an Oracle-tier benchmark engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where the patterns in `claude-skills` came from: reviews surface the same categories of failure repeatedly, and the skills exist because I needed a way to catch them systematically
 
 ---
 
