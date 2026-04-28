@@ -24,7 +24,7 @@ The claude-skills work has taught me that most AI failures aren't random. They'r
 
 That framing shows up in `self-evolving-agent` v1.2 as a commit gate: every correction rule ships with a paired regression test that runs before output is finalized, regardless of whether the agent remembered to check the rule in its head. It shows up in `prompt-engineering` as the behavioral-vs-output contract distinction: the same prompt has to govern both how Claude reasons and what the final output looks like. It shows up in `session-continuity` as a multi-query retrieval protocol because a single search almost never captures a full working state.
 
-I don't claim to have this figured out. I do claim to be iterating in public, with honest changelogs about what each version didn't solve. Longer-form writing on [Medium](https://medium.com/@martinsbash).
+I don't claim to have this figured out. I do claim to be iterating in public, with honest changelogs about what each version didn't solve.
 
 ---
 
