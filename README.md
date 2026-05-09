@@ -14,7 +14,7 @@ Based in Toronto. Active work lives in [`claude-skills`](https://github.com/mart
 
 **[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering rather than shape, with a planned backtest framework and alerting. In active development and honestly early.
 
-**Web Development**. Live and demo websites built for clients. Built with TypeScript.
+**[`Web Development`] Live and demo websites built for clients. Built with TypeScript.
 
 <details>
 <summary>Web Development</summary>
