@@ -14,23 +14,22 @@ Based in Toronto. Active work lives in [`claude-skills`](https://github.com/mart
 
 **[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering rather than shape, with a planned backtest framework and alerting. In active development and honestly early.
 
-**Web Development**. Client websites built through Afro Creative Group across a range of industries: health, beauty, finance, wellness, events, and energy. All built with TypeScript.
+**Web Development**. Live and demo websites built for clients through Afro Creative Group. Built with TypeScript.
 
 <details>
-<summary>Sites built</summary>
+<summary>Web Development</summary>
 
 | Site | Description |
 |------|-------------|
-| [Carolyn's Beauty](https://carolynsbeauty.lovable.app) | Hair salon and beauty supply store |
-| [Brooklin Physio](https://brooklinphysio.lovable.app) | Physiotherapy clinic |
-| [Numiva Accounting](https://numivaacounting.lovable.app) | Accounting firm, Durham Region |
-| [Lightspeed Energy](https://lightspeedenergy.lovable.app) | Energy sector |
 | [Jaiye With Timi](https://jaiyewithtimi.lovable.app) | Content creator brand, weddings and events |
-| [Total Health Spa](https://totalhealthsp.lovable.app/) | Health and wellness |
 | [Maya Retreat](https://mayaretreat.lovable.app/) | Wellness retreat |
 | [Elegant Wedding Ed](https://elegantweddinged.lovable.app/) | Wedding and events |
 | [Crystal Event Decor](https://crystaleventdecor.lovable.app/) | Event decoration |
-| [Afro Creative Group](https://afrocreativegroup.lovable.app) | Creative agency |
+| [Carolyn's Beauty](https://carolynsbeauty.lovable.app) | Hair salon and beauty supply store |
+| [Total Health Spa](https://totalhealthsp.lovable.app/) | Health and wellness |
+| [Brooklin Physio](https://brooklinphysio.lovable.app) | Physiotherapy clinic |
+| [Numiva Accounting](https://numivaacounting.lovable.app) | Accounting firm, Durham Region |
+| [Lightspeed Energy](https://lightspeedenergy.lovable.app) | Energy sector |
 
 </details>
 
