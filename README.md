@@ -14,6 +14,26 @@ Based in Toronto. Active work lives in [`claude-skills`](https://github.com/mart
 
 **[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering rather than shape, with a planned backtest framework and alerting. In active development and honestly early.
 
+**Web Development**. Client websites built through Afro Creative Group across a range of industries: health, beauty, finance, wellness, events, and energy. All built with TypeScript.
+
+<details>
+<summary>Sites built</summary>
+
+| Site | Description |
+|------|-------------|
+| [Carolyn's Beauty](https://carolynsbeauty.lovable.app) | Hair salon and beauty supply store |
+| [Brooklin Physio](https://brooklinphysio.lovable.app) | Physiotherapy clinic |
+| [Numiva Accounting](https://numivaacounting.lovable.app) | Accounting firm, Durham Region |
+| [Lightspeed Energy](https://preview--lightspeedenergy.lovable.app/) | Energy sector |
+| [Jaiye With Timi](https://jaiyewithtimi.lovable.app) | Content creator brand, weddings and events |
+| [Total Health Spa](https://totalhealthsp.lovable.app/) | Health and wellness |
+| [Maya Retreat](https://mayaretreat.lovable.app/) | Wellness retreat |
+| [Elegant Wedding Ed](https://elegantweddinged.lovable.app/) | Wedding and events |
+| [Crystal Event Decor](https://crystaleventdecor.lovable.app/) | Event decoration |
+| [Afro Creative Group](https://afrocreativegroup.lovable.app) | Creative agency |
+
+</details>
+
 ---
 
 ## How I think about AI systems
@@ -50,7 +70,7 @@ Python for backends and scripting. JavaScript and React for client projects. Cla
 
 ## Certifications
 
-|  |  |
+| | |
 |---|---|
 | **AI / Prompt Engineering**<br>• Claude 101 (Anthropic, 2026)<br>• OutlierEDU Prompt Engineering (Outlier, 2026)<br>• Advanced Prompt Engineering: Model Stumps (Outlier, 2026) | **AI Research & Benchmarking**<br>• OutlierEDU Expert to Data Architect (Outlier, 2026)<br>• OutlierEDU Reviewing 101 (Outlier, 2026) |
 | **Finance & Capital Markets**<br>• ETF Proficiency Course (Learnedly, 2025)<br>• Financial History (Learnedly, 2025)<br>• Anti-Money Laundering 2025 (Learnedly, 2025) | **Blockchain & Fintech**<br>• Tokenization of Real-World Assets (Udemy, 2025)<br>• Blockchain and Fintech: Basics, Applications and Limitations (edX, 2025) |
