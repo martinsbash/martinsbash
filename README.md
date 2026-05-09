@@ -24,7 +24,7 @@ Based in Toronto. Active work lives in [`claude-skills`](https://github.com/mart
 | [Carolyn's Beauty](https://carolynsbeauty.lovable.app) | Hair salon and beauty supply store |
 | [Brooklin Physio](https://brooklinphysio.lovable.app) | Physiotherapy clinic |
 | [Numiva Accounting](https://numivaacounting.lovable.app) | Accounting firm, Durham Region |
-| [Lightspeed Energy](https://preview--lightspeedenergy.lovable.app/) | Energy sector |
+| [Lightspeed Energy](https://lightspeedenergy.lovable.app) | Energy sector |
 | [Jaiye With Timi](https://jaiyewithtimi.lovable.app) | Content creator brand, weddings and events |
 | [Total Health Spa](https://totalhealthsp.lovable.app/) | Health and wellness |
 | [Maya Retreat](https://mayaretreat.lovable.app/) | Wellness retreat |
