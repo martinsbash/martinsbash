@@ -26,7 +26,7 @@ Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-ski
 | [Lightspeed Energy](https://lightspeedenergy.lovable.app) | Energy sector |
 | [Maya Retreat](https://mayaretreat.lovable.app/) | Wellness retreat |
 | [Elegant Wedding Ed](https://elegantweddinged.lovable.app/) | Wedding and events |
-| [Total Health Spa](https://totalhealthsp.lovable.app/) | Health and wellness |
+| [Total Health & Sports](https://totalhealthsp.lovable.app/) | Health and Fitness |
 | [Brooklin Physio](https://brooklinphysio.lovable.app) | Physiotherapy clinic |
 | [Numiva Accounting](https://numivaacounting.lovable.app) | Accounting firm, Durham Region |
 | [Crystal Event Decor](https://crystaleventdecor.lovable.app/) | Event decoration |
