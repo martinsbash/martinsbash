@@ -14,8 +14,6 @@ Based in Toronto. Active work lives in [`claude-skills`](https://github.com/mart
 
 **[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering rather than shape, with a planned backtest framework and alerting. In active development and honestly early.
 
-**[`personal-productivity-system`](https://github.com/martinsbash/personal-productivity-system)**. An operating system for my own life: a Markdown-driven task manager, daily priority surfacing, and a night-before planning ritual. Open-sourced because the framework is reusable, not because my exact setup is.
-
 ---
 
 ## Website development
