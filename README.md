@@ -55,7 +55,7 @@ The claude-skills work has taught me that most AI failures aren't random. They'r
 
 That framing shows up in `self-evolving-agent` v1.2 as a commit gate: every correction generates a test that blocks output if it fails; the check runs mechanically, not from memory. `prompt-engineering` makes the same point from a different angle: every prompt is two contracts at once, one for how Claude reasons and one for what the output must look like. In `oracle-research`, it becomes a source-ledger rule: every claim traces to a primary source before output ships, so gaps stay visible rather than papered over. And `superintelligence` runs the reasoning across seven parallel registers, because one fluent line of thinking isn't enough on a hard question.
 
-I don't claim to have this figured out. I do claim to be iterating in public, with honest changelogs about what each version didn't solve. Full list in [`claude-skills`](https://github.com/martinsbash/claude-skills). Longer-form writing on [Medium](https://medium.com/@martinsbash).
+I don't claim to have this figured out. I do claim to be iterating in public, with honest changelogs about what each version didn't solve. Full list in [`claude-skills`](https://github.com/martinsbash/claude-skills).
 
 ---
 
