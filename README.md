@@ -12,7 +12,7 @@ Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-ski
 
 **[`b2b-lead-gen-system`](https://github.com/martinsbash/b2b-lead-gen-system)**. A business discovery pipeline. Given search criteria, it finds matching businesses, scrapes the web, and pulls structured details and information I actually need to work with them: contact info, web presence, offering gaps, and anything worth knowing before outreach or underwriting. My primary use case right now is SMBs without working websites. The current repo only shows the general shape of the approach, but I'm actively building it into a proper end-to-end tool that produces agency-grade output rather than a sequence of intermediate scripts.
 
-**[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns defined by liquidity engineering: structural setups, not visual ones. Monitors higher timeframes and alerts when a high-probability configuration is forming when the pattern is showing potentiel. Still in early development, and currently running deep backtesting.
+**[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns defined by liquidity engineering: structural setups, not visual ones. Monitors higher timeframes and fires an alert when the patterns alone signal that a high-probability configuration is taking shape. Still in early development, and currently running deep backtesting.
 
 ---
 
