@@ -2,17 +2,17 @@
 
 AI trainer and researcher with a background in finance & data analysis. I evaluate how models reason under real-world conditions, stress test where failures fall into repeating patterns rather than random errors, and test the limits of what prompt architecture can actually enforce. The tooling I build extends that research: error classifiers that catch failure patterns before output is final, self-correcting agents that remember errors, systems that keep model behavior consistent under adversarial conditions, and more...
 
-Based in Toronto. Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run Afro Creative Group, a web and creative agency.
+Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run Afro Creative Group, a web and creative agency.
 
 ---
 
 ## What I'm working on
 
-**[`claude-skills`](https://github.com/martinsbash/claude-skills)**. A small library of composable skills for Claude Code and Claude agents. Each skill is a self-contained Markdown file that activates on specific triggers. The library currently covers six areas: recursive self-correction, production-grade prompt engineering, context compression for long sessions, session continuity across conversations, deep research with per-claim source verification, and a super-intelligence multi-lens reasoning skill for consequential questions or tasks. I update the skills every two weeks. Each new version closes a specific gap that the previous one didn't solve. I write about what changed and why in each skill's SKILL.md.
+**[`claude-skills`](https://github.com/martinsbash/claude-skills)**. A small library of composable skills for Claude Code and Claude agents. Each skill is a self-contained Markdown file that activates on specific triggers. The library currently covers six areas: recursive self-correction, production-grade prompt engineering, context compression for long sessions, session continuity across conversations, deep research with per-claim source verification, and a multi-lens reasoning protocol for consequential questions. The flagship skill, `self-evolving-agent`, is on its third major iteration (v1.2). Each version closed a specific gap that the previous one didn't solve. I write about what changed and why in each skill's SKILL.md.
 
-**[`b2b-lead-gen-system`](https://github.com/martinsbash/b2b-lead-gen-system)**. This is a business discovery pipeline that I am currently working on. Given search criteria, it finds matching businesses, pulls and scraps the web to provide the structured details I actually need to work with them: contact info, web presence, ownership signals, offering gaps, anything worth knowing before outreach or underwriting. My primary use case right now is SMBs without working websites, but the engine is general. Built from daily operational use, not from a clean-sheet design. The current repo shows the general shape of the approach, and I'm currently working on turnint it into a proper end-to-end tool that produces agency-grade output rather than a sequence of intermediate scripts.
+**[`b2b-lead-gen-system`](https://github.com/martinsbash/b2b-lead-gen-system)**. A business discovery pipeline. Given search criteria, it finds matching businesses and pulls the structured detail I actually need to work with them: contact info, web presence, ownership signals, offering gaps, anything worth knowing before outreach or underwriting. My primary use case right now is SMBs without working websites, but the engine is general. Built from daily operational use, not from a clean-sheet design. The current repo shows the general shape of the approach, and I'm actively rebuilding it into a proper end-to-end tool that produces agency-grade output rather than a sequence of intermediate scripts.
 
-**[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering, with a planned backtest framework and alerting. In active development and honestly early.
+**[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns defined by liquidity engineering: structural setups, not visual ones. Monitors H1/H4 timeframes and alerts when a high-probability configuration is forming. Planned backtest framework to validate edge before it goes anywhere near live capital. In active development and honestly early.
 
 ---
 
@@ -30,21 +30,35 @@ Through [Afro Creative Group](https://afrocreativegroup.lovable.app), I design a
 
 The `b2b-lead-gen-system` repo powers the outreach side: it automatically finds and qualifies businesses that need this work, so the pipeline runs without spending 3 hours on manual research before every call.
 
+**Client sites:**
+
+| Site | Industry |
+|------|----------|
+| [Jaiye With Timi](https://jaiyewithtimi.lovable.app) | Content creator, weddings and events |
+| [Carolyn's Beauty](https://carolynsbeauty.lovable.app) | Hair salon and beauty supply |
+| [Lightspeed Energy](https://lightspeedenergy.lovable.app) | Energy sector |
+| [Maya Retreat](https://mayaretreat.lovable.app/) | Wellness retreat |
+| [Elegant Wedding Ed](https://elegantweddinged.lovable.app/) | Wedding and events |
+| [Total Health & Sports](https://totalhealthsp.lovable.app/) | Health and fitness |
+| [Brooklin Physio](https://brooklinphysio.lovable.app) | Physiotherapy |
+| [Numiva Accounting](https://numivaacounting.lovable.app) | Accounting, Durham Region |
+| [Crystal Event Decor](https://crystaleventdecor.lovable.app/) | Event decoration |
+
 ---
 
 ## How I think about AI systems
 
 The claude-skills work has taught me that most AI failures aren't random. They're systematic. Claude tends to make the same categories of mistakes repeatedly: hallucinating specific details, missing edge cases, giving generic advice when specifics were needed, walking a single reasoning path when three were available. The interesting engineering question is not "how do I prevent any one mistake" but "how do I install mechanisms that catch entire categories of mistake even when the agent's attention lapses."
 
-That framing shows up in `self-evolving-agent` v1.2 as a commit gate: every correction rule ships with a paired regression test that runs before output is finalized, regardless of whether the agent remembered to check the rule in its head. It shows up in `prompt-engineering` as the behavioral-vs-output contract distinction: the same prompt has to govern both how Claude reasons and what the final output looks like. It shows up in `session-continuity` as a multi-query retrieval protocol because a single search almost never captures a full working state. And it shows up in `superintelligence` as a seven-register parallel reasoning stack, because one fluent line of reasoning isn't enough on a hard question.
+That framing shows up in `self-evolving-agent` v1.2 as a commit gate: every correction generates a test that blocks output if it fails; the check runs mechanically, not from memory. `prompt-engineering` makes the same point from a different angle: every prompt is two contracts at once, one for how Claude reasons and one for what the output must look like. In `oracle-research`, it becomes a source-ledger rule: every claim traces to a primary source before output ships, so gaps stay visible rather than papered over. And `superintelligence` runs the reasoning across seven parallel registers, because one fluent line of thinking isn't enough on a hard question.
 
-I don't claim to have this figured out. I do claim to be iterating in public, with honest changelogs about what each version didn't solve. Longer-form writing on [Medium](https://medium.com/@martinsbash).
+I don't claim to have this figured out. I do claim to be iterating in public, with honest changelogs about what each version didn't solve. Full list in [`claude-skills`](https://github.com/martinsbash/claude-skills). Longer-form writing on [Medium](https://medium.com/@martinsbash).
 
 ---
 
 ## Background
 
-I came into Tech from finance, and now I work with both on a daily basis. The finance background is where I learned to think about risk, precision, pattern recognition and compounding, which translates more directly to AI reliability than I expected going in. On projects with Outlier I work as an Oracle-tier prompt engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where the patterns in `claude-skills` came from: reviews surface the same categories of failure repeatedly, and the skills exist because I needed a way to catch them systematically. Alongside the research, I co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency. The tooling I publish started as something one of these workflows needed.
+I came into tech from finance, and the two have been intertwined ever since. The finance background is where I learned to think about risk, precision, and compounding, which translates more directly to AI reliability than I expected going in. Worked on projects with Outlier as an Oracle-tier benchmark engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where the patterns in `claude-skills` came from: reviews surface the same categories of failure repeatedly, and the skills exist because I needed a way to catch them systematically.
 
 ---
 
@@ -81,4 +95,8 @@ Python for backends and scripting. JavaScript and React for client projects. Cla
 - [Medium](https://medium.com/@martinsbash)
 - [Afro Creative Group](https://afrocreativegroup.lovable.app)
 
-I'm open to collaborations on AI agent work, fellowships, AI training, freelance engagements, and conversations with people working on similar problems.
+I'm open to collaborations on AI agent work, fellowships, freelance engagements, and conversations with people working on similar problems.
+
+---
+
+*"Build the machine after you understand the system. Not before."*
