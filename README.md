@@ -1,8 +1,8 @@
 # Martins Bash
 
-AI trainer and researcher with roots in finance. My work is research: training and evaluating AI models on projects with Outlier, probing reasoning quality and failure modes, and building the tooling that surfaces patterns across reviews. The engineering sits downstream of the research.
+AI trainer and researcher with a background in finance & data analysis. I evaluate how models reason under real-world conditions, stress test where failures fall into repeating patterns rather than random errors, and test the limits of what prompt architecture can actually enforce. The tooling I build extends that research: error classifiers that catch failure patterns before output is final, self-correcting agents that remember errors, systems that keep model behavior consistent under adversarial conditions, and more...
 
-Based in Toronto. Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency, and run [WavesofAfro](https://www.instagram.com/wavesofafro), a clothing brand relaunching later this year.
+Based in Toronto. Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-skills), a library of reliability-focused skills for Claude that started as infrastructure for my own research workflow. I also co-run [Afro Creative Group](https://afrocreativegroup.lovable.app), a web and creative agency.
 
 ---
 
@@ -10,9 +10,9 @@ Based in Toronto. Active work lives in [`claude-skills`](https://github.com/mart
 
 **[`claude-skills`](https://github.com/martinsbash/claude-skills)**. A small library of composable skills for Claude Code and Claude agents. Each skill is a self-contained Markdown file that activates on specific triggers. The library currently covers six areas: recursive self-correction, production-grade prompt engineering, context compression for long sessions, session continuity across conversations, deep research with per-claim source verification, and a super-intelligence multi-lens reasoning skill for consequential questions or tasks. I update the skills every two weeks. Each new version closes a specific gap that the previous one didn't solve. I write about what changed and why in each skill's SKILL.md.
 
-**[`b2b-lead-gen-system`](https://github.com/martinsbash/b2b-lead-gen-system)**. A business discovery pipeline. Given search criteria, it finds matching businesses and pulls the structured detail I actually need to work with them: contact info, web presence, ownership signals, offering gaps, anything worth knowing before outreach or underwriting. My primary use case right now is SMBs without working websites, but the engine is general. Built from daily operational use, not from a clean-sheet design. The current repo shows the general shape of the approach, and I'm actively rebuilding it into a proper end-to-end tool that produces agency-grade output rather than a sequence of intermediate scripts.
+**[`b2b-lead-gen-system`](https://github.com/martinsbash/b2b-lead-gen-system)**. This is a business discovery pipeline that I am currently working on. Given search criteria, it finds matching businesses, pulls and scraps the web to provide the structured details I actually need to work with them: contact info, web presence, ownership signals, offering gaps, anything worth knowing before outreach or underwriting. My primary use case right now is SMBs without working websites, but the engine is general. Built from daily operational use, not from a clean-sheet design. The current repo shows the general shape of the approach, and I'm currently working on turnint it into a proper end-to-end tool that produces agency-grade output rather than a sequence of intermediate scripts.
 
-**[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering rather than shape, with a planned backtest framework and alerting. In active development and honestly early.
+**[`trading-pattern-ai`](https://github.com/martinsbash/trading-pattern-ai)**. A pattern-recognition tool I'm building for my own trading workflow. Five chart patterns, defined by liquidity engineering, with a planned backtest framework and alerting. In active development and honestly early.
 
 ---
 
