@@ -23,8 +23,11 @@ Through [Afro Creative Group](https://afrocreativegroup.lovable.app), I design a
 **What I build:**
 
 - Landing pages and brand sites for local service businesses
-- Multi-page sites with booking forms, lead capture, and SEO basics
+- Multi-page sites with booking forms, lead capture, and advanced SEO
+- E-commerce and online store setups
+- Custom web apps and client portals
 - Agency and portfolio sites
+- Brand identity packages alongside site builds
 
 **Stack on client projects:** React, JavaScript, Lovable for rapid prototyping, deployed on Vercel or Netlify.
 
