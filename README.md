@@ -33,7 +33,7 @@ Through [Afro Creative Group](https://afrocreativegroup.lovable.app), I design a
 
 The `b2b-lead-gen-system` repo powers the outreach side: it automatically finds and qualifies businesses that need this work, so the pipeline runs without spending 3 hours on manual research before every call.
 
-**Client sites:**
+**Client & Demo sites:**
 
 | Site | Industry |
 |------|----------|
