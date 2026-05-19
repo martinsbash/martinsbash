@@ -18,7 +18,7 @@ Active work lives in [`claude-skills`](https://github.com/martinsbash/claude-ski
 
 ## Website development
 
-Through [Afro Creative Group](https://afrocreativegroup.lovable.app), I design and build websites for small businesses. The focus is service businesses that don't have a working web presence, or have one that's outdated and costing them customers.
+Through Afro Creative Group, I design and build websites for small businesses. The focus is service businesses that don't have a working web presence, or have one that's outdated and costing them customers.
 
 **What I build:**
 
