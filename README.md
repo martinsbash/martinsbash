@@ -61,8 +61,7 @@ I don't claim to have this figured out. I do claim to be iterating in public, wi
 
 ## Background
 
-I came into tech from finance, and the two have been intertwined ever since. The finance background is where I learned to think about risk, precision, pattern recognition and compounding, which translates more directly to AI reliability than I expected going in. Worked on projects with Outlier as an Oracle-tier prompt engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where I started seeing the gaps in current AI models firsthand: reviews surface the same categories of failure repeatedly, and the patterns in `claude-skills` came from needing a systematic way to catch them
-
+I came into tech from finance, and the two have been intertwined ever since. The finance background is where I learned to think about risk, precision, pattern recognition and compounding, which translates more directly to AI reliability than I expected going in. Worked on projects with Outlier as an Oracle-tier prompt engineer and reviewer, evaluating AI training data and model outputs for quality, reasoning, and failure modes. That research is where I started seeing the gaps in current AI models firsthand, so I started diving deep into how to close them, building and researching skills that make my own version of Claude significantly more reliable for the work I do
 ---
 
 ## Tech and tools I work in
