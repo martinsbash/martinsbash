@@ -27,7 +27,7 @@ Through [Afro Creative Group](https://afrocreativegroup.lovable.app), I design a
 - E-commerce and online store setups
 - Custom web apps and client portals
 - Agency and portfolio sites
-- Brand identity packages alongside site builds
+- Brand identity packages
 
 **Stack on client projects:** React, JavaScript, Lovable for rapid prototyping, deployed on Vercel or Netlify.
 
