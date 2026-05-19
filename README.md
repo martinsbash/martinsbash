@@ -77,7 +77,7 @@ Python for backends and scripting. JavaScript and React for client projects. Cla
 - How to make LLM systems reliable in production: catching agent mistakes before they ship, testing for regressions, and knowing when the model is guessing vs. actually knowing something
 - Multi-agent design: agents that coordinate, hand off work, and check each other's output
 - Web and software development
-- Quantitative finance as a rigorous framework for the pattern-recognition work in `trading-pattern-ai` (replacing the looser Smart Money Concepts chart-reading approach)
+- Quantitative finance as a rigorous framework for the pattern-recognition work in `trading-pattern-ai`
 
 ---
 
