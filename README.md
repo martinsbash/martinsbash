@@ -29,7 +29,7 @@ Through [Afro Creative Group](https://afrocreativegroup.lovable.app), I design a
 - Agency and portfolio sites
 - Brand identity packages
 
-**Stack on client projects:** React, JavaScript, Lovable for rapid prototyping, deployed on Vercel or Netlify.
+**Stack on client projects:** React, JavaScript, Lovable for rapid prototyping.
 
 The `b2b-lead-gen-system` repo powers the outreach side: it automatically finds and qualifies businesses that need this work, so the pipeline runs without spending 3 hours on manual research before every call.
 
