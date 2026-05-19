@@ -98,8 +98,4 @@ Python for backends and scripting. JavaScript and React for client projects. Cla
 - [Medium](https://medium.com/@martinsbash)
 - [Afro Creative Group](https://afrocreativegroup.lovable.app)
 
-I'm open to collaborations on AI agent work, fellowships, freelance engagements, and conversations with people working on similar problems.
-
----
-
-*"Build the machine after you understand the system. Not before."*
+I'm open to collaborations on AI agent work, fellowships, AI training, freelance engagements, and conversations with people working on similar problems.
